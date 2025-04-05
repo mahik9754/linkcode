@@ -1,0 +1,36 @@
+#side{
+    background-color: teal;
+    width:215px;
+    height:1150px;
+    padding:20px;
+}
+
+#rightside{
+   margin-left:10px;
+}
+
+.details{
+    font-size:25px;
+}
+
+.rhsheaders{
+    font-size:50px;
+}
+
+.lhsheaders{
+    color:whitesmoke;
+    font-size:45px;
+}
+
+.lhselems{
+
+    font-size:15px;
+    color:whitesmoke;
+}
+
+#top{
+    background-color:rgb(5, 49, 49);
+    color:whitesmoke;
+    height:125px;
+    padding: 2px;
+}
